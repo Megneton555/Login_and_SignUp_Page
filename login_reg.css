@@ -192,14 +192,12 @@ form .check{
     position:relative;
     font-size:12px;
     float:left;
-    top: 3px;
 }
 
 form .check input{
     position:absolute;
     left: 56px;
-    top:5px;
-    
+    top:5px;  
 }
 
 form .forgot a{
@@ -207,8 +205,6 @@ form .forgot a{
     color: var(--dark-color);
     font-size:12px;
     cursor: pointer;
-    position: relative;
-    top: 3px;
 }
     
 form .forgot a:hover{
