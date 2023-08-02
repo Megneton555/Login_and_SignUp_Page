@@ -201,7 +201,7 @@ form .check{
 form .check input{
     position: absolute; 
     left: 0;
-    top: 5px;
+    top: 4px;
 }
 
 form .forgot a{
@@ -354,10 +354,6 @@ form :is(p, label) a:hover, .afterform1 a:hover{
 
     .content-heading .y-style {
         gap: 0;
-    }
-
-    form .check input {
-        top: 4.5px;
     }
 
     .content-form::before{
